@@ -24,7 +24,7 @@ function Navbar() {
         <li><a href="#education">{t.nav.education}</a></li>
         <li><a href="#skills">{t.nav.skills}</a></li>
         <li><a href="#experience">{t.nav.experience}</a></li>
-        <li><a href="#portfolio">{t.nav.portfolio}</a></li>
+        <li><a href="#projects">{t.nav.portfolio}</a></li>
         <li><a href="#contact">{t.nav.contact}</a></li>
 
         <li className="nav-icons">
