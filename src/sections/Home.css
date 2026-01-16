@@ -1,0 +1,33 @@
+.home {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.profile-pic {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #38bdf8;
+  margin-bottom: 1.5rem;
+}
+
+.home h2 {
+  font-size: 2rem;
+  margin-bottom: 0.3rem;
+}
+
+.home h3 {
+  font-size: 1.2rem;
+  color: #38bdf8;
+  margin-bottom: 1.5rem;
+}
+
+.home p {
+  max-width: 700px;
+  margin: 0 auto;
+  font-size: 1rem;
+   color: var(--text-secondary)
+}
